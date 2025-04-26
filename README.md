@@ -1,1 +1,2 @@
 # Analyzing-the-Modern-Summer-Olympics-with-Power-BI-
+This project develops an interactive Power BI dashboard to visualize and analyze the Sydney 2000 to Rio 2016 Olympics. It explores participation trends, medal counts, and athlete performances, uncovering key insights through data visualization. Designed for sports enthusiasts, researchers, and decision-makers, the dashboard highlights achievements and trends in Olympic history.
